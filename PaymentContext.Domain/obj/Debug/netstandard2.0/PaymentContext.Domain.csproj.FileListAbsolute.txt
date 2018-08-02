@@ -1,0 +1,12 @@
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Share.dll
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Share.pdb
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\bin\Debug\netstandard2.0\PaymentContext.Share.deps.json
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\bin\Debug\netstandard2.0\PaymentContext.Share.dll
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\bin\Debug\netstandard2.0\PaymentContext.Share.pdb
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\obj\Debug\netstandard2.0\PaymentContext.Share.csprojAssemblyReference.cache
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\obj\Debug\netstandard2.0\PaymentContext.Share.csproj.CoreCompileInputs.cache
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\obj\Debug\netstandard2.0\PaymentContext.Share.AssemblyInfoInputs.cache
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\obj\Debug\netstandard2.0\PaymentContext.Share.AssemblyInfo.cs
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\obj\Debug\netstandard2.0\PaymentContext.Share.dll
+C:\Users\alka\Desktop\ERP\Udemy\Dominio Rico\PaymentContext.Share\obj\Debug\netstandard2.0\PaymentContext.Share.pdb
